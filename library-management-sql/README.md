@@ -4,7 +4,7 @@
 ---
 A **MySQL-based Library Management System** designed to demonstrate real-world database design, relationships, and analytical SQL queries.  
 This project focuses on **data modeling, foreign keys, joins, and business-oriented SQL analysis**.
-![](https://github.com/Nitishkumar50814/sql-library-management-system/blob/main/er-diagram/Public-Library-.jpg)
+![](https://github.com/Nitishkumar50814/sql-projects/blob/main/library-management-sql/er-diagram/ERR_Diagram.jpg)
 
 ---
 
